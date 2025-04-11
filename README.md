@@ -9,14 +9,9 @@ This project is a Category Management Module developed using **React.js** for th
 
 ## 🎥 Project Demo
 
-<video src="https://github.com/omdhembre2442/CategoryMangement/blob/03f8ef1ef2335db3f7356b63caf6f2cea27dcc32/frontend/public/assets/AddProduct.mp4?raw=true" 
-       width="100%" 
-       controls 
-       autoplay 
-       muted 
-       loop>
-  Your browser does not support the video tag.
-</video>
+## 🎥 Project Demo
+
+[![Watch the demo](https://github.com/omdhembre2442/CategoryMangement/blob/main/frontend/public/assets/Dashboard.jpeg?raw=true)](https://github.com/omdhembre2442/CategoryMangement/blob/main/frontend/public/assets/AddProduct.mp4?raw=true)
 ---
 
 ## 🚀 Features
