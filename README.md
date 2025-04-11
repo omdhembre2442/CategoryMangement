@@ -42,7 +42,7 @@ You can watch the demo video by clicking the link below:
 
 | Dashboard | Add Category | Edit Category |
 |----------|--------------|---------------|
-| ![Dashboard](https://github.com/omdhembre2442/CategoryMangement/blob/9ac765d57fa37a29ab2b8f888b466b954fb7235b/frontend/public/assets/Dashboard.png) | ![Add](screenshots/add.png) | ![Edit](screenshots/edit.png) |
+| ![Dashboard](https://raw.githubusercontent.com/omdhembre2442/CategoryMangement/main/frontend/public/assets/Dashboard.png) | ![Add](screenshots/add.png) | ![Edit](screenshots/edit.png) |
 
 ---
 
