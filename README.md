@@ -9,7 +9,7 @@ This project is a Category Management Module developed using **React.js** for th
 
 ## 🎥 Project Demo
 
-<video src="https://github.com/omdhembre2442/CategoryManagement/blob/main/frontend/assets/AddProduct.mp4?raw=true" 
+<video src="https://github.com/omdhembre2442/CategoryMangement/blob/main/frontend/public/assets/demo.mp4?raw=true" 
        width="100%" 
        controls 
        autoplay 
@@ -17,7 +17,6 @@ This project is a Category Management Module developed using **React.js** for th
        loop>
   Your browser does not support the video tag.
 </video>
-
 ---
 
 ## 🚀 Features
@@ -40,7 +39,6 @@ This project is a Category Management Module developed using **React.js** for th
 | Backend      | Spring Boot (Java) |
 | Database     | MySQL |
 | API Testing  | Postman |
-| Deployment   | Vercel (Frontend), Render/Railway (Backend) |
 
 ---
 
@@ -48,7 +46,7 @@ This project is a Category Management Module developed using **React.js** for th
 
 | Dashboard | Add Category | Edit Category |
 |----------|--------------|---------------|
-| ![Dashboard](screenshots/dashboard.png) | ![Add](screenshots/add.png) | ![Edit](screenshots/edit.png) |
+| ![Dashboard](https://github.com/omdhembre2442/CategoryMangement/blob/18a353f878632f376a0bb70b63362d5c7f82f585/frontend/public/assets/Dashboard.jpeg) | ![Add](screenshots/add.png) | ![Edit](screenshots/edit.png) |
 
 ---
 
