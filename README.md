@@ -11,7 +11,7 @@ This project is a Category Management Module developed using **React.js** for th
 
 You can watch the demo video by clicking the link below:
 
-[Watch the Demo Video](https://github.com/omdhembre2442/CategoryMangement/blob/03f8ef1ef2335db3f7356b63caf6f2cea27dcc32/frontend/public/assets/AddProduct.mp4)
+![Demo](https://raw.githubusercontent.com/omdhembre2442/CategoryMangement/main/frontend/src/components/AddProduct-ezgif.com-video-to-gif-converter.gif)
 
 ---
 
@@ -62,7 +62,7 @@ You can watch the demo video by clicking the link below:
 │       │   ├── AddCategoryForm.js
 │       │   └── EditCategoryForm.js
 │       └── App.js
-```
+\```
 
 
 ## 📦 Installation
